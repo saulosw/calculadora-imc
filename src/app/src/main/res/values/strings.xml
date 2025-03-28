@@ -1,3 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculadora_IMC_N1</string>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="btn_calculadora_imc">Calculadora IMC</string>
+
+    <string name="label_peso">Peso (kg)</string>
+    <string name="label_altura">Altura (m)</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_fechar">Fechar</string>
+    <string name="hint_peso">Digite seu peso</string>
+    <string name="hint_altura">Digite sua altura</string>
+    <string name="erro_campos_vazios">Por favor, preencha todos os campos</string>
+    <string name="erro_valores_invalidos">Por favor, insira valores válidos</string>
+
+    <string name="label_resultado">Seu resultado</string>
+    <string name="label_peso_resultado">Peso:</string>
+    <string name="label_altura_resultado">Altura:</string>
+    <string name="label_imc">IMC:</string>
+    <string name="label_classificacao">Classificação:</string>
+
+    <string name="abaixo_do_peso">Abaixo do peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidade_grau_1">Obesidade grau 1</string>
+    <string name="obesidade_grau_2">Obesidade grau 2</string>
+    <string name="obesidade_grau_3">Obesidade grau 3</string>
+
+    <string name="mensagem_abaixo_peso">Você está um pouco abaixo do peso ideal, mas com pequenas mudanças na alimentação e exercícios adequados, você pode alcançar um peso saudável. Lembre-se que cada corpo é único e o mais importante é seu bem-estar!</string>
+    <string name="mensagem_peso_normal">Parabéns! Você está com um peso saudável. Continue mantendo bons hábitos alimentares e a prática regular de atividades físicas para conservar sua saúde e disposição!</string>
+    <string name="mensagem_sobrepeso">Você está levemente acima do peso ideal, mas está no caminho certo! Pequenos ajustes na alimentação e um pouco mais de atividade física podem fazer uma grande diferença. Lembre-se que saúde é um processo contínuo!</string>
+    <string name="mensagem_obesidade1">Você tem potencial para melhorar ainda mais sua saúde! Adotar uma alimentação balanceada e movimentar-se regularmente pode trazer benefícios incríveis para seu corpo e mente. Pequenas mudanças diárias geram grandes resultados!</string>
+    <string name="mensagem_obesidade2">Seu corpo está pedindo um pouco mais de atenção e cuidado. Com acompanhamento adequado, você pode transformar sua saúde positivamente! Lembre-se que cada passo na direção certa conta, e você é capaz de conquistar uma vida mais saudável!</string>
+    <string name="mensagem_obesidade3">Você tem uma jornada de autocuidado pela frente, e acredite: seu corpo tem um potencial incrível de transformação! Com acompanhamento profissional, alimentação adequada e atividade física adaptada, você pode melhorar significativamente sua qualidade de vida!</string>
 </resources>
